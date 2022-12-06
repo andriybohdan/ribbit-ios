@@ -1,3 +1,8 @@
+# Deployment steps
+1. ```pod install``` to install the pods
+2. Open with XCode Ribbit.xcworkspace file
+3. Build and run the project
+
 # Ribbit Reference Implementation (iOS)
 The reference implementation for designing the iOS user interface of a broker-dealer trading application with the Alpaca [Broker API](https://alpaca.markets/docs/broker/). The iOS user interface is implemented using Swift. 
 
