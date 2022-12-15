@@ -35,7 +35,7 @@ DEPENDENCIES:
   - Alamofire
   - AppCenter
   - BRYXBanner
-  - Charts
+  - Charts (= 3.6.0)
   - DSFSparkline (from `https://github.com/dagronf/DSFSparkline.git`)
   - FittedSheets
   - ImageLoader
@@ -96,6 +96,6 @@ SPEC CHECKSUMS:
   Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
   TweeTextField: 47bf8e7f0433364a7f7e119c45e7f278ea50eb62
 
-PODFILE CHECKSUM: 1631cff2799648eeda81df7944485d744add80b2
+PODFILE CHECKSUM: ceb341b3ad3cc7810595909b7e50910be4b3ba8d
 
 COCOAPODS: 1.11.3
